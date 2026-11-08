@@ -126,7 +126,7 @@ static int cmd_search(int argc, char **argv) {
 static int cmd_describe(int argc, char **argv) {
   int idx = -1;
   if (argc == 1 && atoi(argv[0]) > 0) idx = atoi(argv[0]);
-  else if (argc == 1) for (int j = 0; j < ntools; j++) if (!strcmp(tools[j].name, argv[0])) { idx = j + 1; break; }
+  else if (argc == 1) { for (int j = 0; j < ntools; j++) if (!strcmp(tools[j].name, argv[0])) { idx = j + 1; break; } }
   else if (argc == 2) {
     for (int j = 0; j < ntools; j++) if (!strcmp(tools[j].provider, argv[0]) && !strcmp(tools[j].name, argv[1])) { idx = j + 1; break; }
     if (idx < 0) { const char *p2 = !strncmp(argv[0], "MCP ", 4) ? argv[0] + 4 : argv[0]; for (int j = 0; j < ntools; j++) if (!strcmp(tools[j].provider, p2) && !strcmp(tools[j].name, argv[1])) { idx = j + 1; break; } }

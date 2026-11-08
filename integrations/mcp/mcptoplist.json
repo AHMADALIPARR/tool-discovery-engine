@@ -1,0 +1,1 @@
+{"server":"MCPTopList","tools":[{"name":"SERVER_CATALOG","description":"Registry discovery — Directory counts measure servers, not tool call names","inputSchema":{"type":"object","properties":{},"x-schema-captured":false},"x-evidence-tier":"T5"}]}

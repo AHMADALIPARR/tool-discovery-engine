@@ -1,0 +1,1 @@
+{"server":"MCP Fetch","tools":[{"name":"fetch","description":"Web content — Verified published fetch tool","inputSchema":{"type":"object","properties":{},"x-schema-captured":false},"x-evidence-tier":"T2"}]}

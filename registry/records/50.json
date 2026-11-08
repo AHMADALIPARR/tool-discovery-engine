@@ -1,0 +1,1 @@
+{"provider":"Gemini CLI","name":"invoke_agent","category":"Agents/process","tier":"T5","availability":"version_specific","evidence":["documented_example"],"parameters":null,"required":[],"default_enabled":"","source_url":"https://codelabs.developers.google.com/gemini-cli-hands-on","notes":"","in_inventory":true,"in_signatures":false}

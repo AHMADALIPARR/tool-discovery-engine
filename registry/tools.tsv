@@ -1,0 +1,922 @@
+Claude Managed Agents	bash	Shell/files/search	T4	built_in	0	https://platform.claude.com/docs/en/managed-agents/tools
+Claude Managed Agents	read	Shell/files/search	T4	built_in	0	https://platform.claude.com/docs/en/managed-agents/tools
+Claude Managed Agents	write	Shell/files/search	T4	built_in	0	https://platform.claude.com/docs/en/managed-agents/tools
+Claude Managed Agents	edit	Shell/files/search	T4	built_in	0	https://platform.claude.com/docs/en/managed-agents/tools
+Claude Managed Agents	glob	Shell/files/search	T4	built_in	0	https://platform.claude.com/docs/en/managed-agents/tools
+Claude Managed Agents	grep	Shell/files/search	T4	built_in	0	https://platform.claude.com/docs/en/managed-agents/tools
+Claude Managed Agents	web_fetch	Shell/files/search	T4	built_in	0	https://platform.claude.com/docs/en/managed-agents/tools
+Claude Managed Agents	web_search	Shell/files/search	T4	built_in	0	https://platform.claude.com/docs/en/managed-agents/tools
+Claude Code (historical snapshot)	Task	Coding/lifecycle	T4	version_specific	0	https://blog.thepete.net/claude-code-tools/
+Claude Code (historical snapshot)	Bash	Coding/lifecycle	T4	version_specific	0	https://blog.thepete.net/claude-code-tools/
+Claude Code (historical snapshot)	Glob	Coding/lifecycle	T4	version_specific	0	https://blog.thepete.net/claude-code-tools/
+Claude Code (historical snapshot)	Grep	Coding/lifecycle	T4	version_specific	0	https://blog.thepete.net/claude-code-tools/
+Claude Code (historical snapshot)	ExitPlanMode	Coding/lifecycle	T4	version_specific	0	https://blog.thepete.net/claude-code-tools/
+Claude Code (historical snapshot)	Read	Coding/lifecycle	T4	version_specific	0	https://blog.thepete.net/claude-code-tools/
+Claude Code (historical snapshot)	Edit	Coding/lifecycle	T4	version_specific	0	https://blog.thepete.net/claude-code-tools/
+Claude Code (historical snapshot)	Write	Coding/lifecycle	T4	version_specific	0	https://blog.thepete.net/claude-code-tools/
+Claude Code (historical snapshot)	NotebookEdit	Coding/lifecycle	T4	version_specific	0	https://blog.thepete.net/claude-code-tools/
+Claude Code (historical snapshot)	WebFetch	Coding/lifecycle	T4	version_specific	0	https://blog.thepete.net/claude-code-tools/
+Claude Code (historical snapshot)	TodoWrite	Coding/lifecycle	T4	version_specific	0	https://blog.thepete.net/claude-code-tools/
+Claude Code (historical snapshot)	WebSearch	Coding/lifecycle	T4	version_specific	0	https://blog.thepete.net/claude-code-tools/
+Claude Code (historical snapshot)	BashOutput	Coding/lifecycle	T4	version_specific	0	https://blog.thepete.net/claude-code-tools/
+Claude Code (historical snapshot)	KillShell	Coding/lifecycle	T4	version_specific	0	https://blog.thepete.net/claude-code-tools/
+Claude Code (historical snapshot)	AskUserQuestion	Coding/lifecycle	T4	version_specific	0	https://blog.thepete.net/claude-code-tools/
+Claude Code (historical snapshot)	Skill	Coding/lifecycle	T4	version_specific	0	https://blog.thepete.net/claude-code-tools/
+Claude Code (historical snapshot)	SlashCommand	Coding/lifecycle	T4	version_specific	0	https://blog.thepete.net/claude-code-tools/
+Claude Code (historical snapshot)	EnterPlanMode	Coding/lifecycle	T4	version_specific	0	https://blog.thepete.net/claude-code-tools/
+Gemini CLI	run_shell_command	Shell/files	T4	built_in	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	glob	Shell/files	T4	built_in	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	grep_search	Shell/files	T4	built_in	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	list_directory	Shell/files	T4	built_in	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	read_file	Shell/files	T4	built_in	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	read_many_files	Shell/files	T4	built_in	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	write_file	Shell/files	T4	built_in	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	replace	Shell/files	T4	built_in	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	ask_user	Planning/interaction	T4	version_or_feature_dependent	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	write_todos	Planning/interaction	T4	version_or_feature_dependent	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	activate_skill	Planning/interaction	T4	version_or_feature_dependent	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	get_internal_docs	Planning/interaction	T4	version_or_feature_dependent	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	enter_plan_mode	Planning/interaction	T4	version_or_feature_dependent	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	exit_plan_mode	Planning/interaction	T4	version_or_feature_dependent	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	tracker_create_task	Planning/interaction	T4	version_or_feature_dependent	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	tracker_update_task	Planning/interaction	T4	version_or_feature_dependent	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	tracker_get_task	Planning/interaction	T4	version_or_feature_dependent	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	tracker_list_tasks	Planning/interaction	T4	version_or_feature_dependent	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	tracker_add_dependency	Planning/interaction	T4	version_or_feature_dependent	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	tracker_visualize	Planning/interaction	T4	version_or_feature_dependent	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	update_topic	Planning/interaction	T4	version_or_feature_dependent	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	google_web_search	Search/web	T4	built_in	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	web_fetch	Search/web	T4	built_in	0	https://geminicli.com/docs/reference/tools/
+Gemini CLI	invoke_agent	Agents/process	T5	version_specific	0	https://codelabs.developers.google.com/gemini-cli-hands-on
+Gemini CLI	list_background_processes	Agents/process	T5	version_specific	0	https://codelabs.developers.google.com/gemini-cli-hands-on
+Gemini CLI	read_background_output	Agents/process	T5	version_specific	0	https://codelabs.developers.google.com/gemini-cli-hands-on
+OpenAI API	web_search	Hosted tools	T4	opt_in	0	https://developers.openai.com/api/docs/guides/tools
+OpenAI API	file_search	Hosted tools	T4	opt_in	0	https://developers.openai.com/api/docs/guides/tools
+OpenAI API	code_interpreter	Hosted tools	T4	opt_in	0	https://developers.openai.com/api/docs/guides/tools
+OpenAI API	image_generation	Hosted tools	T4	opt_in	0	https://developers.openai.com/api/docs/guides/tools
+OpenAI API	tool_search	Hosted tools	T4	opt_in	0	https://developers.openai.com/api/docs/guides/tools
+OpenAI API	programmatic_tool_calling	Hosted tools	T4	opt_in	0	https://developers.openai.com/api/docs/guides/tools
+OpenAI API	shell	Hosted tools	T4	opt_in	0	https://developers.openai.com/api/docs/guides/tools
+OpenAI API	computer_use	Hosted tools	T4	opt_in	0	https://developers.openai.com/api/docs/guides/tools
+OpenAI API	apply_patch	Hosted tools	T4	opt_in	0	https://developers.openai.com/api/docs/guides/tools
+OpenAI API	function_calling	Extensions	T5	opt_in	0	https://developers.openai.com/api/docs/guides/tools
+OpenAI API	remote_mcp	Extensions	T5	opt_in	0	https://developers.openai.com/api/docs/guides/tools
+OpenAI API	skills	Extensions	T5	opt_in	0	https://developers.openai.com/api/docs/guides/tools
+MCP protocol	tools/list	Discovery/control	T3	server_dependent	0	https://modelcontextprotocol.io/specification/2025-03-26/server/tools
+MCP protocol	tools/call	Discovery/control	T3	server_dependent	0	https://modelcontextprotocol.io/specification/2025-03-26/server/tools
+MCP protocol	resources/list	Discovery/control	T3	server_dependent	0	https://modelcontextprotocol.io/specification/2025-03-26/server/tools
+MCP protocol	resources/read	Discovery/control	T3	server_dependent	0	https://modelcontextprotocol.io/specification/2025-03-26/server/tools
+MCP protocol	prompts/list	Discovery/control	T3	server_dependent	0	https://modelcontextprotocol.io/specification/2025-03-26/server/tools
+MCP protocol	prompts/get	Discovery/control	T3	server_dependent	0	https://modelcontextprotocol.io/specification/2025-03-26/server/tools
+Playwright MCP	browser_navigate	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_navigate_back	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_snapshot	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_find	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_click	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_hover	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_drag	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_drop	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_type	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_fill_form	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_select_option	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_press_key	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_take_screenshot	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_tabs	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_handle_dialog	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_file_upload	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_console_messages	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_network_requests	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_network_request	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_evaluate	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_run_code_unsafe	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_wait_for	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_close	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_resize	Browser	T4	core	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_route	Network	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_route_list	Network	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_unroute	Network	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_network_state_set	Network	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_cookie_list	Browser storage	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_cookie_get	Browser storage	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_cookie_set	Browser storage	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_cookie_delete	Browser storage	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_cookie_clear	Browser storage	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_localstorage_list	Browser storage	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_localstorage_get	Browser storage	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_localstorage_set	Browser storage	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_localstorage_delete	Browser storage	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_localstorage_clear	Browser storage	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_sessionstorage_list	Browser storage	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_sessionstorage_get	Browser storage	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_sessionstorage_set	Browser storage	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_sessionstorage_delete	Browser storage	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_sessionstorage_clear	Browser storage	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_storage_state	Browser storage	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_set_storage_state	Browser storage	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_generate_locator	Testing	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_verify_element_visible	Testing	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_verify_text_visible	Testing	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_verify_list_visible	Testing	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_verify_value	Testing	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_start_tracing	Developer	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_stop_tracing	Developer	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_start_video	Developer	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_stop_video	Developer	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_video_chapter	Developer	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_video_show_actions	Developer	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_video_hide_actions	Developer	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_start_recording	Developer	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_stop_recording	Developer	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_highlight	Developer	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_hide_highlight	Developer	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_annotate	Developer	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_resume	Developer	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_pdf_save	Developer	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_mouse_move_xy	Vision	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_mouse_click_xy	Vision	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_mouse_drag_xy	Vision	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_mouse_down	Vision	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_mouse_up	Vision	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Playwright MCP	browser_mouse_wheel	Vision	T4	optional_capability	0	https://playwright.dev/mcp/introduction
+Filesystem	list_files	Files	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Filesystem	read_file	Files	T2	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Filesystem	read_bytes	Files	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Filesystem	write_file	Files	T1	requires_connector_or_custom_implementation	1	https://github.com/modelcontextprotocol/servers
+Filesystem	append_file	Files	T2	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Filesystem	edit_file	Files	T2	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Filesystem	delete_file	Files	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Filesystem	move_file	Files	T1	requires_connector_or_custom_implementation	1	https://github.com/modelcontextprotocol/servers
+Filesystem	copy_file	Files	T2	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Filesystem	rename_file	Files	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Filesystem	create_directory	Files	T1	requires_connector_or_custom_implementation	1	https://github.com/modelcontextprotocol/servers
+Filesystem	list_directory	Files	T1	requires_connector_or_custom_implementation	1	https://github.com/modelcontextprotocol/servers
+Filesystem	stat_file	Files	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Filesystem	hash_file	Files	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Filesystem	diff_files	Files	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Filesystem	watch_file	Files	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Filesystem	search_files	Files	T2	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Filesystem	archive_files	Files	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Filesystem	extract_archive	Files	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	status	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	diff	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	log	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	show	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	branch	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	checkout	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	switch	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	merge	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	rebase	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	cherry_pick	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	stash	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	tag	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	add	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	commit	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	push	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	pull	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	fetch	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	clone	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	blame	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	bisect	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	reset	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Git	revert	Version control	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	search_repositories	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	get_repository	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	list_branches	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	get_commit	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	list_commits	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	get_file_contents	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	create_or_update_file	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	delete_file	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	create_branch	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	create_pull_request	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	list_pull_requests	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	get_pull_request	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	merge_pull_request	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	add_review_comment	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	list_issues	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	create_issue	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	update_issue	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	add_issue_comment	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	list_actions_workflows	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	run_workflow	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	get_workflow_run	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	list_releases	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	create_release	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	list_tags	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub	search_code	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitLab	list_projects	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitLab	get_project	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitLab	list_merge_requests	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitLab	create_merge_request	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitLab	approve_merge_request	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitLab	list_issues	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitLab	create_issue	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitLab	list_pipelines	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitLab	retry_pipeline	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitLab	get_job_trace	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitLab	get_file_content	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitLab	update_file	Code hosting	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+CI/CD	start_build	Build/deploy	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+CI/CD	get_build_status	Build/deploy	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+CI/CD	run_tests	Build/deploy	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+CI/CD	cancel_job	Build/deploy	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+CI/CD	get_test_results	Build/deploy	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+CI/CD	publish_artifact	Build/deploy	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+CI/CD	download_artifact	Build/deploy	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+CI/CD	deploy_application	Build/deploy	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+CI/CD	rollback_deployment	Build/deploy	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+CI/CD	get_deployment_logs	Build/deploy	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docker	list_containers	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docker	create_container	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docker	run_container	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docker	start_container	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docker	stop_container	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docker	restart_container	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docker	remove_container	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docker	inspect_container	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docker	container_logs	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docker	exec_container	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docker	list_images	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docker	build_image	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docker	pull_image	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docker	push_image	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docker	remove_image	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docker	list_volumes	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docker	create_volume	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docker	list_networks	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Kubernetes	list_pods	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Kubernetes	get_pod	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Kubernetes	describe_pod	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Kubernetes	pod_logs	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Kubernetes	exec_pod	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Kubernetes	list_deployments	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Kubernetes	get_deployment	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Kubernetes	scale_deployment	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Kubernetes	rollout_restart	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Kubernetes	rollout_status	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Kubernetes	list_services	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Kubernetes	get_service	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Kubernetes	list_namespaces	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Kubernetes	get_configmap	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Kubernetes	get_secret	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Kubernetes	list_events	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Kubernetes	apply_manifest	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Kubernetes	delete_resource	Containers	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+AWS	list_ec2_instances	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+AWS	start_instance	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+AWS	stop_instance	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+AWS	describe_s3_buckets	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+AWS	list_s3_objects	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+AWS	get_s3_object	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+AWS	put_s3_object	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+AWS	invoke_lambda	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+AWS	list_lambda_functions	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+AWS	get_cloudwatch_logs	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+AWS	query_athena	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+AWS	put_sqs_message	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+AWS	receive_sqs_message	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+AWS	list_iam_roles	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+AWS	describe_rds_instances	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GCP	list_compute_instances	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GCP	start_compute_instance	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GCP	stop_compute_instance	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GCP	list_gcs_buckets	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GCP	upload_gcs_object	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GCP	download_gcs_object	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GCP	invoke_cloud_run	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GCP	query_bigquery	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GCP	publish_pubsub_message	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GCP	list_vertex_models	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GCP	get_logging_entries	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Azure	list_virtual_machines	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Azure	start_virtual_machine	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Azure	stop_virtual_machine	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Azure	list_blob_containers	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Azure	upload_blob	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Azure	download_blob	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Azure	run_azure_function	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Azure	query_log_analytics	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Azure	list_resource_groups	Cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Terraform	init	Infrastructure	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Terraform	plan	Infrastructure	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Terraform	apply	Infrastructure	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Terraform	destroy	Infrastructure	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Terraform	state_list	Infrastructure	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Terraform	state_show	Infrastructure	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Terraform	validate	Infrastructure	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Terraform	fmt	Infrastructure	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Terraform	output	Infrastructure	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Observability	query_logs	Monitoring	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Observability	query_traces	Monitoring	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Observability	query_metrics	Monitoring	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Observability	list_dashboards	Monitoring	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Observability	create_dashboard	Monitoring	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Observability	create_alert	Monitoring	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Observability	get_alert	Monitoring	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Observability	list_incidents	Monitoring	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Observability	create_incident	Monitoring	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Observability	acknowledge_incident	Monitoring	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Observability	resolve_incident	Monitoring	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Observability	inspect_error	Monitoring	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Observability	get_error_event	Monitoring	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SQL database	list_databases	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SQL database	list_tables	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SQL database	describe_table	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SQL database	get_schema	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SQL database	execute_query	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SQL database	explain_query	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SQL database	run_migration	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SQL database	insert_record	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SQL database	update_record	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SQL database	delete_record	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SQL database	begin_transaction	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SQL database	commit_transaction	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SQL database	rollback_transaction	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+PostgreSQL	list_schemas	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+PostgreSQL	list_tables	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+PostgreSQL	describe_table	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+PostgreSQL	query_database	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+PostgreSQL	inspect_indexes	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+PostgreSQL	explain_query	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+PostgreSQL	list_extensions	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SQLite	open_database	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SQLite	list_tables	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SQLite	schema	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SQLite	query_sql	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SQLite	execute_sql	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SQLite	pragma_table_info	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+MongoDB	list_collections	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+MongoDB	find_documents	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+MongoDB	aggregate_documents	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+MongoDB	insert_document	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+MongoDB	update_document	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+MongoDB	delete_document	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+MongoDB	create_index	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Redis	get_key	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Redis	set_key	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Redis	delete_key	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Redis	scan_keys	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Redis	expire_key	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Redis	publish_message	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Redis	subscribe_channel	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Redis	read_stream	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Redis	append_stream	Database	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Vector database	create_collection	AI/retrieval	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Vector database	list_collections	AI/retrieval	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Vector database	upsert_vectors	AI/retrieval	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Vector database	search_vectors	AI/retrieval	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Vector database	query_vectors	AI/retrieval	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Vector database	delete_vectors	AI/retrieval	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Vector database	get_collection_info	AI/retrieval	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Vector database	create_index	AI/retrieval	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Vector database	hybrid_search	AI/retrieval	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Embeddings	embed_text	AI/retrieval	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Embeddings	embed_batch	AI/retrieval	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Embeddings	rerank_documents	AI/retrieval	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Embeddings	semantic_search	AI/retrieval	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Embeddings	chunk_documents	AI/retrieval	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Embeddings	ingest_document	AI/retrieval	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Embeddings	retrieve_chunks	AI/retrieval	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+LLM providers	list_models	AI/models	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+LLM providers	generate_text	AI/models	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+LLM providers	chat_completion	AI/models	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+LLM providers	generate_embeddings	AI/models	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+LLM providers	tokenize_text	AI/models	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+LLM providers	count_tokens	AI/models	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+LLM providers	get_usage	AI/models	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+LLM providers	moderate_text	AI/models	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+LLM providers	fine_tune_model	AI/models	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+LLM providers	get_fine_tune_status	AI/models	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+Machine learning	train_model	AI/models	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Machine learning	evaluate_model	AI/models	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Machine learning	load_model	AI/models	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Machine learning	save_model	AI/models	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Machine learning	predict	AI/models	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Machine learning	batch_predict	AI/models	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Machine learning	optimize_model	AI/models	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Machine learning	export_onnx	AI/models	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Machine learning	quantize_model	AI/models	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Machine learning	profile_inference	AI/models	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Search providers	web_search	Search	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Search providers	news_search	Search	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Search providers	image_search	Search	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Search providers	video_search	Search	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Search providers	local_search	Search	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Search providers	people_search	Search	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Search providers	academic_search	Search	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Search providers	search_suggestions	Search	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Browser automation	navigate	Browser	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Browser automation	click	Browser	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Browser automation	fill	Browser	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Browser automation	type_text	Browser	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Browser automation	screenshot	Browser	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Browser automation	page_snapshot	Browser	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Browser automation	scroll	Browser	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Browser automation	select_option	Browser	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Browser automation	upload_file	Browser	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Browser automation	download_file	Browser	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Browser automation	get_cookies	Browser	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Browser automation	set_cookies	Browser	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Browser automation	execute_script	Browser	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Browser automation	intercept_request	Browser	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Web crawler	fetch_url	Web	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Web crawler	scrape_page	Web	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Web crawler	extract_links	Web	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Web crawler	crawl_site	Web	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Web crawler	parse_sitemap	Web	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Web crawler	extract_structured_data	Web	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Web crawler	capture_html	Web	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+HTTP/REST	http_get	Networking	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+HTTP/REST	http_post	Networking	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+HTTP/REST	http_put	Networking	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+HTTP/REST	http_patch	Networking	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+HTTP/REST	http_delete	Networking	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+HTTP/REST	get_headers	Networking	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+HTTP/REST	download_url	Networking	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+HTTP/REST	upload_file	Networking	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+HTTP/REST	resolve_dns	Networking	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+HTTP/REST	open_websocket	Networking	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+HTTP/REST	send_websocket_message	Networking	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SSH	ssh_execute	Remote execution	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SSH	sftp_upload	Remote execution	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SSH	sftp_download	Remote execution	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SSH	ssh_open_tunnel	Remote execution	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+SSH	ssh_close_tunnel	Remote execution	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Gmail	search_messages	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Gmail	get_message	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Gmail	list_threads	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Gmail	get_thread	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Gmail	create_draft	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Gmail	send_message	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Gmail	reply_message	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Gmail	forward_message	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Gmail	add_label	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Gmail	remove_label	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Gmail	archive_message	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Outlook	search_mail	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Outlook	get_mail	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Outlook	send_mail	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Outlook	create_draft	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Outlook	move_mail	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Outlook	list_folders	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Slack	search_messages	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Slack	list_channels	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Slack	get_channel_history	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Slack	post_message	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Slack	reply_to_thread	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Slack	edit_message	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Slack	delete_message	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Slack	add_reaction	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Slack	upload_file	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Slack	get_user_info	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Discord	list_guilds	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Discord	list_channels	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Discord	read_messages	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Discord	send_message	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Discord	edit_message	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Discord	delete_message	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Discord	create_thread	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Discord	add_reaction	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Teams	list_teams	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Teams	list_channels	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Teams	list_messages	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Teams	send_message	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Teams	create_meeting	Communications	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Calendar	list_calendars	Scheduling	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Calendar	list_events	Scheduling	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Calendar	get_event	Scheduling	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Calendar	find_free_time	Scheduling	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Calendar	create_event	Scheduling	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Calendar	update_event	Scheduling	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Calendar	delete_event	Scheduling	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Calendar	RSVP_event	Scheduling	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Contacts	search_contacts	Scheduling	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Contacts	get_contact	Scheduling	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Contacts	create_contact	Scheduling	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Contacts	update_contact	Scheduling	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Contacts	delete_contact	Scheduling	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Google Drive	search_files	Files/cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Google Drive	list_files	Files/cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Google Drive	get_file	Files/cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Google Drive	download_file	Files/cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Google Drive	upload_file	Files/cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Google Drive	create_folder	Files/cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Google Drive	move_file	Files/cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Google Drive	share_file	Files/cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Google Drive	update_permissions	Files/cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Dropbox	search_files	Files/cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Dropbox	list_folder	Files/cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Dropbox	download_file	Files/cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Dropbox	upload_file	Files/cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Dropbox	move_file	Files/cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Dropbox	delete_file	Files/cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Dropbox	create_shared_link	Files/cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+OneDrive	search_files	Files/cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+OneDrive	list_items	Files/cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+OneDrive	download_item	Files/cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+OneDrive	upload_item	Files/cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+OneDrive	share_item	Files/cloud	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Notion	search_pages	Knowledge	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Notion	get_page	Knowledge	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Notion	create_page	Knowledge	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Notion	update_page	Knowledge	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Notion	append_blocks	Knowledge	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Notion	query_database	Knowledge	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Notion	create_database	Knowledge	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Confluence	search_content	Knowledge	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Confluence	get_page	Knowledge	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Confluence	create_page	Knowledge	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Confluence	update_page	Knowledge	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Confluence	add_comment	Knowledge	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Jira	search_issues	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Jira	get_issue	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Jira	create_issue	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Jira	update_issue	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Jira	transition_issue	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Jira	add_comment	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Jira	list_projects	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Linear	search_issues	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Linear	list_issues	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Linear	create_issue	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Linear	update_issue	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Linear	add_comment	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Linear	create_project	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Linear	list_projects	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Asana	list_projects	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Asana	list_tasks	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Asana	get_task	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Asana	create_task	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Asana	update_task	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Asana	add_task_comment	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Trello	list_boards	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Trello	list_lists	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Trello	list_cards	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Trello	create_card	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Trello	update_card	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Trello	move_card	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Airtable	list_bases	Database/business	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Airtable	list_tables	Database/business	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Airtable	list_records	Database/business	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Airtable	get_record	Database/business	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Airtable	create_record	Database/business	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Airtable	update_record	Database/business	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Airtable	delete_record	Database/business	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Airtable	batch_create_records	Database/business	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+HubSpot	search_contacts	CRM	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+HubSpot	create_contact	CRM	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+HubSpot	update_contact	CRM	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+HubSpot	search_companies	CRM	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+HubSpot	create_company	CRM	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+HubSpot	list_deals	CRM	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+HubSpot	create_deal	CRM	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+HubSpot	update_deal	CRM	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Salesforce	query_records	CRM	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Salesforce	get_record	CRM	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Salesforce	create_record	CRM	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Salesforce	update_record	CRM	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Salesforce	delete_record	CRM	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Salesforce	describe_object	CRM	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Stripe	list_customers	Payments	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Stripe	create_customer	Payments	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Stripe	list_products	Payments	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Stripe	list_prices	Payments	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Stripe	create_checkout_session	Payments	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Stripe	create_invoice	Payments	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Stripe	retrieve_payment_intent	Payments	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Stripe	list_transactions	Payments	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Stripe	issue_refund	Payments	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Shopify	list_products	Ecommerce	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Shopify	get_product	Ecommerce	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Shopify	create_product	Ecommerce	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Shopify	update_product	Ecommerce	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Shopify	list_orders	Ecommerce	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Shopify	get_order	Ecommerce	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Shopify	fulfill_order	Ecommerce	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Shopify	get_inventory	Ecommerce	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub Projects	list_project_items	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub Projects	create_project_item	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+GitHub Projects	update_project_field	Project	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Spreadsheets	create_spreadsheet	Data	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Spreadsheets	read_cells	Data	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Spreadsheets	write_cells	Data	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Spreadsheets	append_rows	Data	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Spreadsheets	create_sheet	Data	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Spreadsheets	format_range	Data	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Spreadsheets	add_chart	Data	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Spreadsheets	recalculate	Data	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Spreadsheets	export_csv	Data	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docs	create_document	Documents	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docs	read_document	Documents	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docs	edit_document	Documents	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docs	insert_text	Documents	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docs	replace_text	Documents	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docs	export_pdf	Documents	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Docs	add_comment	Documents	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Slides	create_presentation	Documents	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Slides	add_slide	Documents	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Slides	edit_slide	Documents	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Slides	add_shape	Documents	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Slides	add_image	Documents	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Slides	export_presentation	Documents	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+PDF	read_pdf	Documents	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+PDF	extract_text	Documents	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+PDF	extract_tables	Documents	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+PDF	merge_pdf	Documents	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+PDF	split_pdf	Documents	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+PDF	fill_pdf_form	Documents	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+PDF	sign_pdf	Documents	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+PDF	render_pdf	Documents	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Image	generate_image	Media	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Image	edit_image	Media	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Image	resize_image	Media	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Image	crop_image	Media	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Image	convert_image	Media	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Image	remove_background	Media	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Image	detect_objects	Media	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Image	extract_image_metadata	Media	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Audio	transcribe_audio	Media	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Audio	synthesize_speech	Media	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Audio	detect_language	Media	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Audio	diarize_speakers	Media	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Audio	translate_audio	Media	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Audio	extract_audio	Media	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Video	inspect_video	Media	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Video	extract_frames	Media	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Video	transcode_video	Media	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Video	clip_video	Media	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Video	merge_videos	Media	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Video	generate_subtitles	Media	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Video	summarize_video	Media	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Maps	geocode	Location	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Maps	reverse_geocode	Location	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Maps	search_places	Location	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Maps	get_place_details	Location	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Maps	calculate_route	Location	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Maps	distance_matrix	Location	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Maps	find_nearby_places	Location	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Weather	get_current_weather	Environment	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Weather	get_forecast	Environment	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Weather	get_historical_weather	Environment	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Weather	get_weather_alerts	Environment	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Finance	get_stock_quote	Market data	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Finance	get_historical_prices	Market data	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Finance	get_company_fundamentals	Market data	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Finance	get_exchange_rate	Market data	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Finance	list_transactions	Market data	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Finance	get_portfolio	Market data	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Scientific research	search_papers	Research	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Scientific research	get_paper_metadata	Research	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Scientific research	retrieve_preprint	Research	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Scientific research	lookup_doi	Research	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Scientific research	search_patents	Research	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Scientific research	search_dataset	Research	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Scientific research	get_dataset	Research	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Symbolic math	simplify_expression	Math	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Symbolic math	solve_equation	Math	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Symbolic math	differentiate	Math	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Symbolic math	integrate	Math	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Symbolic math	factor_polynomial	Math	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Symbolic math	compute_groebner_basis	Math	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Numerical math	matrix_multiply	Math	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Numerical math	matrix_inverse	Math	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Numerical math	eigenvalues	Math	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Numerical math	svd	Math	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Numerical math	fft	Math	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Numerical math	optimize	Math	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Numerical math	minimize	Math	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Numerical math	solve_ode	Math	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Formal verification	check_proof	Verification	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Formal verification	typecheck_module	Verification	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Formal verification	model_check	Verification	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Formal verification	verify_invariant	Verification	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Formal verification	solve_smt	Verification	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Formal verification	check_sat	Verification	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Formal verification	generate_counterexample	Verification	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Code quality	lint	Development	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Code quality	format_code	Development	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Code quality	typecheck	Development	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Code quality	scan_dependencies	Development	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Code quality	vulnerability_scan	Development	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Code quality	static_analysis	Development	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Code quality	run_unit_tests	Development	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Code quality	code_coverage	Development	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Secrets manager	list_secrets	Security	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Secrets manager	get_secret	Security	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Secrets manager	put_secret	Security	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Secrets manager	rotate_secret	Security	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Secrets manager	revoke_secret	Security	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Cryptography	hash_data	Security	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Cryptography	hmac_data	Security	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Cryptography	verify_hmac	Security	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Cryptography	generate_keypair	Security	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Cryptography	sign_message	Security	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Cryptography	verify_signature	Security	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Cryptography	encrypt_data	Security	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Cryptography	decrypt_data	Security	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Cryptography	derive_key	Security	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Cryptography	generate_random_bytes	Security	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Identity	create_user	Security	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Identity	disable_user	Security	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Identity	list_groups	Security	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Identity	assign_role	Security	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Identity	revoke_role	Security	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Identity	inspect_permissions	Security	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+DNS	lookup_dns	Networking	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+DNS	list_dns_records	Networking	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+DNS	create_dns_record	Networking	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+DNS	update_dns_record	Networking	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+DNS	delete_dns_record	Networking	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Domain/hosting	check_domain_availability	Networking	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Domain/hosting	register_domain	Networking	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Domain/hosting	list_domains	Networking	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Domain/hosting	get_dns_zone	Networking	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+System/process	list_processes	Shell	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+System/process	kill_process	Shell	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+System/process	get_environment	Shell	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+System/process	get_disk_usage	Shell	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+System/process	get_memory_usage	Shell	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+System/process	get_cpu_usage	Shell	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+System/process	get_network_interfaces	Shell	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Scheduler	create_job	Automation	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Scheduler	list_jobs	Automation	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Scheduler	update_job	Automation	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Scheduler	delete_job	Automation	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Scheduler	run_job	Automation	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Scheduler	get_job_history	Automation	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Memory/graph	create_entity	Memory	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Memory/graph	add_relation	Memory	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Memory/graph	search_nodes	Memory	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Memory/graph	read_graph	Memory	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Memory/graph	delete_entity	Memory	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Memory/graph	add_observation	Memory	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Multimodal computer	screenshot	Computer	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Multimodal computer	click	Computer	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Multimodal computer	drag	Computer	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Multimodal computer	scroll	Computer	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Multimodal computer	type_text	Computer	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Multimodal computer	keypress	Computer	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Multimodal computer	open_application	Computer	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Multimodal computer	read_screen	Computer	T5	requires_connector_or_custom_implementation	0	https://github.com/modelcontextprotocol/servers
+Agent coordination	spawn_agent	Agents	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+Agent coordination	delegate_task	Agents	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+Agent coordination	send_agent_message	Agents	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+Agent coordination	await_agent_result	Agents	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+Agent coordination	cancel_agent	Agents	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+Agent coordination	list_agents	Agents	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+Agent coordination	update_plan	Agents	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+Agent coordination	log_step	Agents	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+MCP introspection	list_servers	MCP	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+MCP introspection	connect_server	MCP	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+MCP introspection	list_tools	MCP	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+MCP introspection	get_tool_schema	MCP	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+MCP introspection	call_tool	MCP	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+MCP introspection	list_resources	MCP	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+MCP introspection	read_resource	MCP	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+MCP introspection	list_prompts	MCP	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+MCP introspection	get_prompt	MCP	T5	requires_connector_or_custom_implementation	0	https://github.com/langchain-ai/langgraphjs/blob/main/docs/docs/agents/tools.md
+Host shell executable	python	Python	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	python3	Python	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	ipython	Python	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	pip	Python	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	pip3	Python	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	pipx	Python	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	pytest	Python	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	jupyter	Python	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	node	JavaScript	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	npm	JavaScript	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	npx	JavaScript	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	pnpm	JavaScript	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	yarn	JavaScript	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	bun	JavaScript	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	deno	JavaScript	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	julia	Julia	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	godot	Godot	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	godot4	Godot	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	gcc	Compilers	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	g++	Compilers	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	clang	Compilers	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	clang++	Compilers	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	cc	Compilers	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	ld	Compilers	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	lld	Compilers	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	make	Compilers	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	cmake	Compilers	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	ninja	Compilers	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	meson	Compilers	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	nasm	Compilers	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	as	Compilers	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	rustc	Other languages	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	cargo	Other languages	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	go	Other languages	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	javac	Other languages	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	java	Other languages	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	dotnet	Other languages	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	swift	Other languages	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	ocamlc	Other languages	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	ghc	Other languages	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	ghci	Other languages	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	ruby	Other languages	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	perl	Other languages	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	php	Other languages	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	R	Other languages	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	Rscript	Other languages	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	sh	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	bash	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	zsh	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	ls	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	find	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	rg	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	grep	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	awk	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	sed	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	cut	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	sort	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	uniq	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	head	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	tail	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	xargs	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	cat	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	stat	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	du	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	df	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	ps	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	top	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	kill	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	env	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	printenv	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	chmod	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	chown	System	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	curl	Network	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	wget	Network	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	ssh	Network	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	scp	Network	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	rsync	Network	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	dig	Network	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	nslookup	Network	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	ping	Network	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	traceroute	Network	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	openssl	Network	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	git	Git/devops	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	gh	Git/devops	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	docker	Git/devops	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	kubectl	Git/devops	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	helm	Git/devops	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	terraform	Git/devops	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	ansible	Git/devops	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	gitlab	Git/devops	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	jq	Data	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	yq	Data	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	sqlite3	Data	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	psql	Data	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	mysql	Data	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	redis-cli	Data	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	ffmpeg	Media	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	ffprobe	Media	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	magick	Media	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	convert	Media	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Host shell executable	tesseract	Media	T5	only_if_installed_and_shell_allowed	0	https://geminicli.com/docs/reference/tools/
+Official MCP Registry	SERVER_CATALOG	Registry discovery	T5	external_directory	0	https://registry.modelcontextprotocol.io/
+MCP Atlas	SERVER_CATALOG	Registry discovery	T5	external_directory	0	https://www.mcp-atlas.com/
+MCPTopList	SERVER_CATALOG	Registry discovery	T5	external_directory	0	https://mcptoplist.com/observatory
+MCP ecosystem dataset	SERVER_CATALOG	Registry discovery	T5	external_directory	0	https://huggingface.co/datasets/BIFF-AI/mcptoplist
+GitHub Official MCP	create_pull_request	GitHub	T2		0	https://github.com/github/github-mcp-server
+GitHub Official MCP	get_file_contents	GitHub	T2		0	https://github.com/github/github-mcp-server
+GitHub Official MCP	get_gist	GitHub	T2		0	https://github.com/github/github-mcp-server
+GitHub Official MCP	issue_read	GitHub	T2		0	https://github.com/github/github-mcp-server
+MCP Fetch	fetch	Web content	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/fetch/src/mcp_server_fetch/server.py
+MCP Filesystem	directory_tree	Filesystem	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/filesystem/server.ts
+MCP Filesystem	get_file_info	Filesystem	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/filesystem/server.ts
+MCP Filesystem	list_allowed_directories	Filesystem	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/filesystem/server.ts
+MCP Filesystem	list_directory_with_sizes	Filesystem	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/filesystem/server.ts
+MCP Filesystem	read_media_file	Filesystem	T1		1	https://github.com/modelcontextprotocol/servers/blob/main/src/filesystem/server.ts
+MCP Filesystem	read_multiple_files	Filesystem	T1		1	https://github.com/modelcontextprotocol/servers/blob/main/src/filesystem/server.ts
+MCP Filesystem	read_text_file	Filesystem	T1		1	https://github.com/modelcontextprotocol/servers/blob/main/src/filesystem/server.ts
+MCP Git	git_add	Version control	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/git/src/mcp_server_git/server.py
+MCP Git	git_branch	Version control	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/git/src/mcp_server_git/server.py
+MCP Git	git_checkout	Version control	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/git/src/mcp_server_git/server.py
+MCP Git	git_commit	Version control	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/git/src/mcp_server_git/server.py
+MCP Git	git_create_branch	Version control	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/git/src/mcp_server_git/server.py
+MCP Git	git_diff	Version control	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/git/src/mcp_server_git/server.py
+MCP Git	git_diff_staged	Version control	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/git/src/mcp_server_git/server.py
+MCP Git	git_diff_unstaged	Version control	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/git/src/mcp_server_git/server.py
+MCP Git	git_log	Version control	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/git/src/mcp_server_git/server.py
+MCP Git	git_merge	Version control	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/git/src/mcp_server_git/server.py
+MCP Git	git_remote	Version control	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/git/src/mcp_server_git/server.py
+MCP Git	git_reset	Version control	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/git/src/mcp_server_git/server.py
+MCP Git	git_show	Version control	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/git/src/mcp_server_git/server.py
+MCP Git	git_status	Version control	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/git/src/mcp_server_git/server.py
+MCP Memory	add_observations	Knowledge graph	T1		1	https://github.com/modelcontextprotocol/servers/blob/main/src/memory/index.ts
+MCP Memory	create_entities	Knowledge graph	T1		1	https://github.com/modelcontextprotocol/servers/blob/main/src/memory/index.ts
+MCP Memory	create_relations	Knowledge graph	T1		1	https://github.com/modelcontextprotocol/servers/blob/main/src/memory/index.ts
+MCP Memory	delete_entities	Knowledge graph	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/memory/index.ts
+MCP Memory	delete_observations	Knowledge graph	T1		1	https://github.com/modelcontextprotocol/servers/blob/main/src/memory/index.ts
+MCP Memory	delete_relations	Knowledge graph	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/memory/index.ts
+MCP Memory	open_nodes	Knowledge graph	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/memory/index.ts
+MCP Memory	read_graph	Knowledge graph	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/memory/index.ts
+MCP Memory	search_nodes	Knowledge graph	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/memory/index.ts
+MCP Sequential Thinking	sequentialthinking	Reasoning	T1		1	https://github.com/modelcontextprotocol/servers/blob/main/src/sequentialthinking/index.ts
+MCP Time	convert_time	Time	T1		1	https://github.com/modelcontextprotocol/servers/blob/main/src/time/src/mcp_server_time/server.py
+MCP Time	get_current_time	Time	T1		1	https://github.com/modelcontextprotocol/servers/blob/main/src/time/src/mcp_server_time/server.py
+MCP Time	get_time_ago	Time	T2		0	https://github.com/modelcontextprotocol/servers/blob/main/src/time/src/mcp_server_time/server.py
+Slack Official MCP	slack_complete_file_upload	Messaging/files	T2		0	https://docs.slack.dev/ai/slack-mcp-server/
+Slack Official MCP	slack_get_file_upload_url	Messaging/files	T2		0	https://docs.slack.dev/ai/slack-mcp-server/

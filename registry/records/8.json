@@ -1,0 +1,1 @@
+{"provider":"Claude Managed Agents","name":"web_search","category":"Shell/files/search","tier":"T4","availability":"built_in","evidence":["documented_tool","documented_tool"],"parameters":null,"required":[],"default_enabled":"built_in","source_url":"https://platform.claude.com/docs/en/managed-agents/tools","notes":"","in_inventory":true,"in_signatures":true}

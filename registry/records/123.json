@@ -1,0 +1,1 @@
+{"provider":"Playwright MCP","name":"browser_start_video","category":"Developer","tier":"T4","availability":"optional_capability","evidence":["documented_tool","documented_tool"],"parameters":null,"required":[],"default_enabled":"optional_capability","source_url":"https://playwright.dev/mcp/introduction","notes":"","in_inventory":true,"in_signatures":true}

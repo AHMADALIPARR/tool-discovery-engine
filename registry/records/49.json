@@ -1,0 +1,1 @@
+{"provider":"Gemini CLI","name":"web_fetch","category":"Search/web","tier":"T4","availability":"built_in","evidence":["documented_tool","documented_tool"],"parameters":null,"required":[],"default_enabled":"built_in","source_url":"https://geminicli.com/docs/reference/tools/","notes":"","in_inventory":true,"in_signatures":true}

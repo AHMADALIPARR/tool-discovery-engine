@@ -1,0 +1,1 @@
+{"provider":"Playwright MCP","name":"browser_wait_for","category":"Browser","tier":"T4","availability":"core","evidence":["documented_tool","documented_tool"],"parameters":null,"required":[],"default_enabled":"core","source_url":"https://playwright.dev/mcp/introduction","notes":"JS execution must be restricted for no-JS environment","in_inventory":true,"in_signatures":true}

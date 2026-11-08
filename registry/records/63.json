@@ -1,0 +1,1 @@
+{"provider":"OpenAI API","name":"remote_mcp","category":"Extensions","tier":"T5","availability":"opt_in","evidence":["documented_tool_family"],"parameters":null,"required":[],"default_enabled":"","source_url":"https://developers.openai.com/api/docs/guides/tools","notes":"","in_inventory":true,"in_signatures":false}
